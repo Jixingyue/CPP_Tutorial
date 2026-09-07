@@ -1,0 +1,30 @@
+﻿  main.cpp
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(23,35): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(23,35): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(37,39): warning C4311: “类型强制转换”: 从“int (*)[4]”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(37,39): warning C4302: “类型强制转换”: 从“int (*)[4]”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(38,39): error C3688: 文本后缀“涓猍4”无效；未找到文文本运算符或文本运算符模板“operator """"涓猍4”
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(38,39): error C2143: 语法错误: 缺少“;”(在“]”的前面)
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(38,39): error C2059: 语法错误:“]”
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(40,13): error C2001: 常量中有换行符
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(41,5): error C2143: 语法错误: 缺少“;”(在“for”的前面)
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(42,39): warning C4311: “类型强制转换”: 从“int **”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(42,39): warning C4302: “类型强制转换”: 从“int **”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(43,67): error C3688: 文本后缀“涓猶鍏冪礌鐨勫湴鍧€鏄”无效；未找到文文本运算符或文本运算符模板“operator """"涓猶鍏冪礌鐨勫湴鍧€鏄”
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(50,40): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(50,40): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(51,47): error C2001: 常量中有换行符
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(52,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(55,40): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(55,40): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(56,47): error C2001: 常量中有换行符
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(57,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(61,46): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(61,46): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(62,47): error C2001: 常量中有换行符
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(63,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(66,46): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(66,46): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(67,47): error C2001: 常量中有换行符
+D:\document\英雄从哪里出来\C++\0.cpp_base-main\09、指针\09_06_04\09_06_04\main.cpp(68,5): error C2143: 语法错误: 缺少“;”(在“}”的前面)
